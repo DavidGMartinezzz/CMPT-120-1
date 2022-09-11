@@ -19,11 +19,11 @@ def main():
     print("Hello, my name is ", name)
 
     #insert your best friend's name here and have it print out
-    name2 = ""
+    name2 = "Alex"
     print("Hello, my best friend's name is ", name)
     
     #put your age here
-    age = 
+    age = 18
     print("I'm " + name + " and i'm " + str(age) + " years old")
     
  
